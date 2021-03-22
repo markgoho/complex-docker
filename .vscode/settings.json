@@ -4,6 +4,7 @@
     "PGHOST",
     "PGPASSWORD",
     "PGPORT",
-    "PGUSER"
+    "PGUSER",
+    "otherpage"
   ]
 }
